@@ -1,0 +1,17 @@
+export const signinapple = 'Sign in with Apple'
+export const oruseemail = 'OR USE YOUR EMAIL'
+export const signinfb = 'Sign in with Facebook'
+export const btnSignUp = 'Sign Up'
+export const btnLogIn = 'Log In'
+export const inputfname = 'First Name'
+export const inputlname = 'Last Name'
+export const inputemail = 'Email'
+export const inputpassword = 'Password'
+export const forgetpassword = 'Forgot your password?'
+export const byContinueUAgree = 'By continuing, you agree to our'
+export const TAndC = 'Terms & Conditions '
+export const And = 'and'
+export const PrivacyPolicy = 'Privacy Policy.'
+export const Seemore = 'See more'
+
+
